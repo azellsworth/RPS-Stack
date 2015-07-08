@@ -1,7 +1,7 @@
 // RPS-Stack.js
 // The goal is to create a function that takes a number of rounds of Rock Paper Scissors
 // and returns an array of all possible games. We intend to do this with a Stack structure
-// Mathieu is a boss
+// Mathieu is a boss like whoah
 
 var rpsSolutions = function(rounds){
   // need to create an external solutions array
